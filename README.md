@@ -23,12 +23,12 @@ Powered By :
 # Necessary Package : #
 
 - Python 3.7
-- OpenCV
+- OpenCV 1.14
 - Numpy
-- CUDA Toolkit
+- CUDA Toolkit 10.2
 - Gym
 - Keras-rl
-- Keras
+- Keras 2.2.4
 
 
 # How To Use #
