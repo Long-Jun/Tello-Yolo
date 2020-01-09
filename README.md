@@ -1,4 +1,4 @@
-# TELLO Drone Detection by YOLO
+# TELLO Drone Detection By YOLO
 Tello drone with YOLO and DDPG control.
 
 
